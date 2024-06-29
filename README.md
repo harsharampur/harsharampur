@@ -3,7 +3,7 @@
 
 👀 I’m interested in **Computer Science, New Technology, and AI-driven projects**. My focus areas include Web development and MERN STACk ,python ,C++,C-programming.
 
-🌱 I’m currently learning **New technology **, 
+🌱 I’m currently learning **New technology **
 
 💼 I’m pursuing my academic studies at **JAIN College of Engineering**, specializing in Computer Science and New Technology. 
 
