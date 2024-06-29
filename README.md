@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @harsharampur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-harsharampur/harsharampur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I’m Harsha 👋
+
+👀 I’m interested in **Computer Science, New Technology, and AI-driven projects**. My focus areas include automatic face detection, smart attendance systems, and optimization algorithms.
+
+🌱 I’m currently learning **New technology **, 
+
+💼 I’m pursuing my academic studies at **JAIN College of Engineering**, specializing in Computer Science and New Technology. 
+
+💞️ I’m looking to collaborate on **web development and Ai/ml projects, particularly those focused on computer vision, optimization systems, and smart technology solutions**. I enjoy working on innovative projects that have real-world applications.
+
+🚀 My past projects include:
+- **Optimization of EV Battery Systems**: Conducted R&D to enhance battery life and performance.
+- **Smoke Detection Systems**: Developed efficient algorithms for early smoke detection using AI.
+
+📫 How to reach me: 
+- **LinkedIn**:(https://www.linkedin.com/in/harsha-rampur-45663a255/)
+- **Email**: [harsharampur2003@gmail.com] 
+
+⚡ Fun fact: **I love coding challenges and solving complex problems. I’m passionate about using technology to create innovative solutions that can make a positive impact on society**.
