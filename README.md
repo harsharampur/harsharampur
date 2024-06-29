@@ -1,7 +1,7 @@
 
 # Hi, I’m Harsha 👋
 
-👀 I’m interested in **Computer Science, New Technology, and AI-driven projects**. My focus areas include automatic face detection, smart attendance systems, and optimization algorithms.
+👀 I’m interested in **Computer Science, New Technology, and AI-driven projects**. My focus areas include Web development and MERN STACk ,python ,C++,C-programming.
 
 🌱 I’m currently learning **New technology **, 
 
